@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="">
+<meta name="author" content="">
+<title>Patrasso Info</title>
+<!-- Bootstrap Core CSS -->
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<!-- Custom CSS -->
+<link href="css/theme.css" rel="stylesheet">
+<!-- Font Awesome -->
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+<!-- Google Fonts -->   
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,700,400italic,700italic|Montserrat:400,700" rel="stylesheet" type="text/css">
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+<!-- Navigation -->
+<nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+<div class="container">
+	<div class="navbar-header">
+		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+		<i class="fa fa-bars"></i>
+		</button>
+		<a class="navbar-brand page-scroll" href="index.html">
+		<h2>Patrasso<br>
+	     Info</h2>  </a>
+	</div>
+	<!-- Collect the nav links, forms, and other content for toggling -->
+	<div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+		<ul class="nav navbar-nav">
+			<li>
+			<a href="index.html">Home</a>
+			</li>
+			<li>
+			<a href="portfolio-item.html">Perfil</a>
+			</li>
+			<li>
+			<a href="page-sample.html">Serviços</a>
+			</li>
+			<li>
+			<a href="contact.html">FORÚM</a>
+			</li>
+		</ul>
+	</div>
+	<!-- /.navbar-collapse -->
+</div>
+<!-- /.container -->
+</nav>
+<!-- Intro Header -->
+<header class="intro">
+<div class="intro-body">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-8 col-md-offset-2">
+				<h1 class="brand-heading">REINVENTANDO CONTEÚDO</h1>
+				<p class="intro-text">
+					Faça como um programador. Quando tudo está errado e confuso, apague tudo e recomece do zero.
+				</p>
+				<a href="#about" class="btn btn-circle page-scroll">
+				<i class="fa fa-angle-double-down animated"></i>
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
+</header>
+<!-- About Section -->
+<section id="about">
+<div class="container content-section text-center">
+	<div class="row">
+		<h2>INFO</h2>
+
+		<div class="col-lg-8 col-lg-offset-2">
+			<p>
+				Saber ligar um computador não significa saber informática como a maioria dos usuários falam, pois a informática por simples que as pessoas pensem guarda segredos que não imaginamos. Montagem e Manutenção; Criação de Sites; Formatação e Limpeza de micros. TUDO NESSE SITE!
+			</p>
+			<p>
+				<a href="#" class="btnghost"><i class="fa fa-download"></i> Vamos Aprender</a>
+			</p>
+		</div>
+	</div>
+</div>
+</section>
+<section id="portfolio">
+<div class="gallery">
+	<ul>
+		<li class="col-md-3">
+		<a href="portfolio-item.html">
+		<img src="https://images7.alphacoders.com/679/thumb-1920-679140.png" alt="">
+		</a>
+		</li>
+		
+		<li class="col-md-3">
+		<a href="portfolio-item.html">
+		<img src="https://wallpapercave.com/wp/fkrnk0i.jpg" alt="">
+		</a>
+		</li>
+		
+		<li class="col-md-3">
+		<a href="portfolio-item.html">
+		<img src="https://wallpapercave.com/wp/wp2885598.jpg" alt="">
+		</a>
+		</li>
+		
+		
+		<li class="col-md-3">
+		<a href="portfolio-item.html">
+		<img src="http://aquicursos.com.br/arquivos/upload/cursos/montagem-e-manutencao.jpg" alt="">
+		</a>
+		</li>
+		
+		<li class="col-md-3">
+		<a href="portfolio-item.html">
+		<img src="https://http2.mlstatic.com/curso-formataco-de-computador-brinde-D_NQ_NP_587321-MLB20767199514_062016-F.jpg" alt="">
+		</a>i
+		</li>
+		
+		<li class="col-md-3">
+		<a href="portfolio-item.html">
+		<img src="https://i1.wp.com/www.techcoffees.com/wp-content/uploads/2018/02/bootstrap-wallpaper.png?ssl=1" alt="">
+		</a>
+		</li>
+		
+		
+		<li class="col-md-3">
+		<a href="portfolio-item.html">
+		<img src="https://www.setaswall.com/wp-content/uploads/2018/03/Microsoft-Office-Wallpaper-01-1500x844.jpg" alt="">
+		</a>
+		</li>
+		
+		<li class="col-md-3">
+		<a href="portfolio-item.html">
+		<img src="https://images7.alphacoders.com/695/695932.jpg" alt="">
+		</a>
+		</li>
+		
+		
+
+	</ul>
+</div>
+</section>
+<!-- Contact Section -->
+<section id="contact">
+<div class="container content-section text-center">
+	<div class="row">
+		<div class="col-lg-8 col-lg-offset-2">
+			<h2></h2>
+			<p>
+				Neste terceiro milênio, saber o básico de informática, é tão importante quanto saber a ler.
+
+			</p>
+			<p>
+				<i><a href="patrassotecnico@gmail.com" style="border-bottom:1px dashed #ccc;">patrassotecnico@gmail.com</a></i>
+			</p>
+			<ul class="list-inline banner-social-buttons">
+				<li>
+				<a href="https://twitter.com/patrassopedro" class="btn btnghost btn-lg"><i class="fa fa-twitter fa-fw"></i><span class="network-name">Twitter</span></a>
+				</li>
+				<li>
+				<a href="https://www.instagram.com/patrassopedro/" class="btn btnghost btn-lg"><i class="fa fa-instagram fa-fw"></i><span class="network-name">Instagram</span></a>
+				</li>
+				<li>
+				<a href="https://accounts.google.com/SignOutOptions?hl=pt-BR&continue=https://mail.google.com/mail&service=mail" class="btn btnghost btn-lg"><i class="fa fa-google-plus fa-fw"></i><span class="network-name">Google+</span></a>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>
+</section>
+<!-- Footer -->
+<footer>
+<div class="container text-center">
+	<p class="credits">
+		Todos os direitos reservados - 2019<br/>
+		Pedro Patrasso
+	</p>
+</div>
+</footer>
+<!-- jQuery -->
+<script src="js/jquery.js"></script>
+<!-- Bootstrap Core JavaScript -->
+<script src="js/bootstrap.min.js"></script>
+<!-- Plugin JavaScript -->
+<script src="js/jquery.easing.min.js"></script>
+<!-- Custom Theme JavaScript -->
+<script src="js/theme.js"></script>
+</body>
+</html>
